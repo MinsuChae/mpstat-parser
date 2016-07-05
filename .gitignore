@@ -1,0 +1,15 @@
+# Compiled Object files
+*.class
+
+# Compiled Folder
+bin/
+
+#Setting Folder and Files
+.settings/
+.classpath
+.project
+
+
+#Compiled libraries
+*.jar
+
